@@ -1,10 +1,10 @@
-= RubyMotion with PSPDFKit =
+# RubyMotion with PSPDFKit #
 
 * http://www.rubymotion.com
 * http://www.pspdfkit.com
 * http://tom.meinlschmidt.org/2013/02/16/pspdfkit-in-rubymotion/
 
-== Initial setup ==
+## Initial setup ##
 
 Extract your PSPDFKit somewhere and do symbolic links into your project:
 
